@@ -6,7 +6,7 @@ description: "Build pages, sections, and components on top of the Tinyflow Commo
 # Tinyflow Common Style Guide
 
 Live reference: https://tinyflow-common-style-guides.webflow.io/styleguide
-Exact JS code (Footer Custom Code script, reusable toolkit, blog CTA injection): `references/js-reference.md`
+Exact JS code (Footer Custom Code script, reusable toolkit, blog CTA injection): [`references/js-reference.md`](https://raw.githubusercontent.com/Developer-Zahid/AI-Skills/refs/heads/main/tinyflow-common-style-guide-for-webflow/js-reference.md)
 
 Everything produced here is pasted into a Webflow project that **already has this style guide installed**. Every `u-*` and `cc-*` class in this document already exists with styles attached. Treat them as read-only primitives — the whole point of the system is that a hundred pages share one definition of "h2" or "section padding", so redefining one locally silently forks the design system.
 
